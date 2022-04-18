@@ -6,9 +6,6 @@ Sou uma pessoa criativa que adora usar as tecnologias mais recentes para criar s
 Também sou entusiasta em aprender novas habilidades e enfrentar os desafios que vêm com isso.
 
 **Atualmente estou estudando:** <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"><img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /><img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><img align="center" alt="react" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
-          
-
-
 
   ### Linguagens & Tools
   
@@ -22,12 +19,12 @@ Também sou entusiasta em aprender novas habilidades e enfrentar os desafios que
   
   ##
   
-  ### <div align="center"> 🚀 Estatísticas rápidas </div> 
+  ### 🚀 Estatísticas rápidas 
 
 <div align="center">
   <a href="https://github.com/lucasfs022">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasfs022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfs022&layout=compact&langs_count=7&theme=algolia"/>
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api?username=lucasfs022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="430em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfs022&layout=compact&langs_count=7&theme=algolia"/>
 </div>
   
 
