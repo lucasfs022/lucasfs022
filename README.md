@@ -5,7 +5,7 @@ I'm Lucas Silva, a front-end developer based in Brazil. <br>
 I'm a creative person who loves using the latest technologies to create unique websites and apps. <br>
 I'm also enthusiastic about learning new skills and tackling the challenges that come with them.
 
-**Atualmente estou estudando:** <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"><img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /><img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><img align="center" alt="react" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
+**I'm currently studiyng:** <img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original-wordmark.svg"><img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain-wordmark.svg" /><img align="center" alt="react" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redux/redux-original.svg" /><img align="center" alt="react" height="60" width="70" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original-wordmark.svg" />
 
   ### Linguagens & Tools
   
@@ -19,7 +19,7 @@ I'm also enthusiastic about learning new skills and tackling the challenges that
   
   ##
   
-  ### 🚀 Estatísticas rápidas 
+  ### 🚀 Quick stats 
 
 <div align="center">
   <a href="https://github.com/lucasfs022">
@@ -29,7 +29,7 @@ I'm also enthusiastic about learning new skills and tackling the challenges that
   
 
  
-  ## Contatos:
+  ## Contacts:
 <div> 
   <a href="https://instagram.com/lucasfs022" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
   <a href = "mailto:lucasfs022@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
