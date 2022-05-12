@@ -20,15 +20,12 @@ I'm also enthusiastic about learning new skills and tackling the challenges that
   ##
   
   ### 🚀 Quick stats 
-
 <div align="center">
   <a href="https://github.com/lucasfs022">
-  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasfs022&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api?username=lucasfs022&theme=algolia&show_icons=true"/>
   <img height="180em" width="400em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasfs022&layout=compact&langs_count=7&theme=algolia"/>
 </div>
-  
 
- 
   ## Contacts:
 <div> 
   <a href="https://instagram.com/lucasfs022" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
